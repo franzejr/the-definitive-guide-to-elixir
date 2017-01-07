@@ -31,6 +31,9 @@ Brazillian, [José Valim](https://github.com/josevalim), co-founder of [Platafor
 - [Fabio's Akita opinion](http://www.akitaonrails.com/2015/12/01/the-obligatory-why-elixir-personal-take)
 
 
+### OTP
+
+
 ### Tooling
 
 #### mix
