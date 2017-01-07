@@ -10,7 +10,7 @@ It happens with me. I tried to learn elixir 3 or 4 times in a year. If the same 
 A big thanks to [Josh Adams](@knewter) and The [DailyDrip team](www.dailydrip.com) who are disrupting the web with amazing content about programming, especially Elixira
 
 
-### The Creator
+## The Creator
 
 Brazillian, [José Valim](https://github.com/josevalim), co-founder of [Plataformatec](http://plataformatec.com.br/).
 
@@ -19,10 +19,17 @@ Brazillian, [José Valim](https://github.com/josevalim), co-founder of [Platafor
 -[An Interview with Elixir Creator José Valim](https://www.sitepoint.com/an-interview-with-elixir-creator-jose-valim/)
 
 
+## The Language
+
+### Why Elixir
+
+- [Fabio's Akita opinion](http://www.akitaonrails.com/2015/12/01/the-obligatory-why-elixir-personal-take)
+
+
 ### Tooling
 
-### mix
+#### mix
 
 mix is a build tool for creating, compiling and testing Elixir project's. If you come from a ruby background, this is like `rake`.
 
-### EXUnit
+#### EXUnit
