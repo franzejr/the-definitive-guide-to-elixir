@@ -23,6 +23,7 @@ Brazillian, [José Valim](https://github.com/josevalim), co-founder of [Platafor
 
 ### Why Elixir
 
+- [What makes Elixir so attractive for some developers? - A long and awesome list of opinions](http://ruby2elixir.github.io/posts/2015/12-29-what-makes-elixir-so-attractive-for-some-developers.html)
 - [Fabio's Akita opinion](http://www.akitaonrails.com/2015/12/01/the-obligatory-why-elixir-personal-take)
 
 
