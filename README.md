@@ -21,6 +21,10 @@ Brazillian, [José Valim](https://github.com/josevalim), co-founder of [Platafor
 
 ## The Language
 
+### BEAM
+
+- [A notion of what is BEAM](https://notamonadtutorial.com/eric-merritt-erlang-and-distributed-systems-expert-gives-his-views-on-beam-languages-hindley-a09b15f53a2f#.n7no2hdv3)
+
 ### Why Elixir
 
 - [What makes Elixir so attractive for some developers? - A long and awesome list of opinions](http://ruby2elixir.github.io/posts/2015/12-29-what-makes-elixir-so-attractive-for-some-developers.html)
